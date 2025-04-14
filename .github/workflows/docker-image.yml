@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: dockerkr12/aivoas:latest
+          tags: dockerkr12/aivoas-app:latest
